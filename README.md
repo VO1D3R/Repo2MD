@@ -39,13 +39,13 @@ python repo_to_md.py ./path/to/directory output.md
 ```markdown
 # Repository Structure
 
-```
+
 project/
 ├── src/
 │   ├── __init__.py
 │   └── main.py
 └── README.md
-```
+
 
 ## File: src/main.py
 
